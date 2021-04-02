@@ -1,0 +1,106 @@
+.navbar{
+  background-color: #6e7575;
+  font-size: 20px;
+}
+.navbar-brand{
+font-size: 40px !important ;
+font-weight:bold;
+font-family: 'Dancing Script', cursive;
+}
+
+.phone{
+  margin-top: 100px;
+  margin-left: 300px;
+  width:50%;
+  transform: rotate(-5deg);
+}
+#first{
+background-color: #95968d;
+background-image: url("https://www.transparenttextures.com/patterns/food.png");
+}
+.heading{
+  color: white;
+  background-color: #95968d;
+  padding: 10px;
+  font-size: 50px;
+  font-weight: bold;
+  font-family: 'Cormorant Garamond', serif;
+
+}
+.head2{
+  margin-top: 150px;
+}
+.title{
+  padding: 20px 150px;
+}
+
+#second{
+  padding: 7% 7%;
+   background-color: #F7F7F2;
+}
+
+.icon-stamp{
+  color: white;
+}
+.febo{
+  text-align: center;
+  padding: 8%;
+}
+
+h3{
+  font-weight: bold;
+}
+
+#carousel-testimonial{
+  padding: 10%;
+  background-color: #E6E6E6;
+}
+.ffont{
+  font-size: 55px !important;
+  color: #3DC879;
+}
+
+.flist{
+  font-size: 27px;
+  padding: 5%;
+  line-height: 60px;
+  font-family: 'Cormorant Garamond', serif;
+}
+.resto{
+  padding: 10%;
+}
+
+.blog{
+  padding: 10%;
+}
+
+#fourth{
+  padding: 20%;
+  background-color: #F7F7F2;
+  text-align: center;
+}
+
+.dow-line{
+  font-size: 50px;
+  padding: 5%;
+  font-weight: bold;
+}
+
+#fifth{
+
+  text-align: center;
+  padding-bottom: 40px;
+  padding-top: 40px;
+
+  background-color:  #6e7575;
+
+}
+.parafoot{
+
+  color: white;
+
+}
+
+.footi{
+  color: white;
+}
